@@ -12,7 +12,6 @@ export default function App() {
   return (
     <div className="App">
       <Student studentData={studentData} />
-      <Score studentData={studentData} />
     </div>
   );
 }
